@@ -1,0 +1,51 @@
+# -----------------------
+# Python cache files
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------
+# Jupyter notebook checkpoints
+# -----------------------
+.ipynb_checkpoints/
+
+# -----------------------
+# Virtual environments (conda/venv)
+# -----------------------
+env/
+venv/
+.face_emotion/   # your conda environment folder (optional)
+
+# -----------------------
+# OS system files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# TensorFlow / Keras model files
+# -----------------------
+*.h5
+*.keras
+
+# -----------------------
+# Dataset folder (do not upload large datasets)
+# -----------------------
+dataset/
+
+# -----------------------
+# Log files
+# -----------------------
+*.log
+
+# -----------------------
+# VSCode / IDE settings
+# -----------------------
+.vscode/
+
+# -----------------------
+# Optional system files
+# -----------------------
+*.swp
